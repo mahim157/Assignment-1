@@ -31,7 +31,7 @@ body{
 
 .menu li a{
     text-decoration: none;
-    color: #222;
+    color: #1E1E1E;
     font-size: 16px;
 }
 
@@ -77,4 +77,70 @@ body{
     font-size: 18px;
     line-height: 30px;
     margin-bottom: 40px;
+}
+/* Speakers Section */
+
+
+.speakers{
+    background-color: #FFFFFF;
+    padding: 80px;
+}
+
+.speakers h2{
+    text-align: center;
+    font-size: 48px;
+    color: #0D1B2A;
+    margin-bottom: 50px;
+}
+
+/* Speaker Container */
+
+.speaker-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+
+/* Speaker Card */
+
+.card{
+    background-color: #FFFFFF;
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
+}
+
+/* Speaker Image */
+
+.card img{
+    width: 100%;
+    height: 280px;
+    display: block;
+}
+
+/* Category */
+
+.card h5{
+    color: #2563EB;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+/* Speaker Name */
+
+.card h3{
+    color: #0D1B2A;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+/* Company */
+
+.card p{
+    color: #575757;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
