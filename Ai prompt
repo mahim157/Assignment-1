@@ -1,0 +1,24 @@
+****
+I am building a DevConf 2026 conference landing page using only HTML and CSS.
+Suggest one unique section that is different from common sections like FAQ, Sponsors, Newsletter, or Contact. The section should be creative, useful for a technology conference, visually appealing, and suitable for a modern landing page. It should be simple enough for a beginner HTML and CSS developer to build while still looking professional.
+
+****
+Create a responsive HTML and CSS section called "Career Hub" for a DevConf 2026 landing page.
+
+Requirements:
+- Use only HTML5 and CSS3.
+- No Bootstrap or JavaScript.
+- Use CSS Grid or Flexbox.
+- Include a section title and short description.
+- Add four cards: Job Fair, Meet Recruiters, Mock Interviews, and Startup Hiring.
+- Include simple icons (Font Awesome or emoji).
+- Add a statistics area showing Hiring Companies, Open Positions, and Career Connections.
+- Add one call-to-action button.
+- Use a modern purple color palette that matches a developer conference.
+- Keep the code clean, beginner-friendly, responsive, and well commented.
+
+
+
+
+****
+Design a clean, modern, and premium-looking conference website section for a "Career Hub". Use white cards, soft purple gradients, rounded corners, subtle shadows, and generous spacing. The design should feel similar to a modern technology conference landing page while remaining easy to recreate using HTML and CSS.
