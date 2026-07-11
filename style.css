@@ -152,8 +152,6 @@ body{
 }
 /* Pricing Section */
 
-/* Pricing Section */
-
 .pricing{
     padding: 80px;
     background-color: #FFFFFF;
@@ -205,8 +203,10 @@ body{
     margin-bottom: 15px;
 }
 
+/* PRO text */
+
 .pro h5{
-    color: white;
+    color: #2563EB;
 }
 
 .price-card h3{
@@ -253,8 +253,20 @@ body{
     margin-bottom: 12px;
 }
 
+/* Blue Bullet */
+
+.price-card ul li::marker{
+    color: #2563EB;
+}
+
 .pro ul li{
     color: white;
+}
+
+/* Blue Bullet in Pro */
+
+.pro ul li::marker{
+    color: #2563EB;
 }
 
 /* Buttons */
@@ -540,6 +552,3 @@ font-size:34px;
         text-align:center;
     }
 }
-
-
-
